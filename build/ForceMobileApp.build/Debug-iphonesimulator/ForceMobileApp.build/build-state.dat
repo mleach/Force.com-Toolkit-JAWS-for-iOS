@@ -1,0 +1,309 @@
+TForceMobileApp
+v7
+r0
+t322936188.856154
+cCheck dependencies
+cProcessInfoPlistFile /Users/mikeleach/Documents/ForceMobileApp/build/Debug-iphonesimulator/ForceMobileApp.app/Info.plist ForceMobileApp-Info.plist
+cCompileXIB /Users/mikeleach/Documents/ForceMobileApp/MainWindow.xib
+cCompileXIB /Users/mikeleach/Documents/ForceMobileApp/ForceMobileAppViewController.xib
+cProcessPCH /var/folders/sc/scmH1zX4Gry7zOCcTcTXdq8AYkw/-Caches-/com.apple.Xcode.1653379855/SharedPrecompiledHeaders/ForceMobileApp_Prefix-fbokhqbeczqwqafeobmolpgluagj/ForceMobileApp_Prefix.pch.gch ForceMobileApp_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ForceMobileApp.build/Debug-iphonesimulator/ForceMobileApp.build/Objects-normal/i386/main.o /Users/mikeleach/Documents/ForceMobileApp/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ForceMobileApp.build/Debug-iphonesimulator/ForceMobileApp.build/Objects-normal/i386/ForceMobileAppAppDelegate.o /Users/mikeleach/Documents/ForceMobileApp/Classes/ForceMobileAppAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ForceMobileApp.build/Debug-iphonesimulator/ForceMobileApp.build/Objects-normal/i386/ForceMobileAppViewController.o /Users/mikeleach/Documents/ForceMobileApp/Classes/ForceMobileAppViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/mikeleach/Documents/ForceMobileApp/build/Debug-iphonesimulator/ForceMobileApp.app/ForceMobileApp normal i386
+cGenerateDSYMFile /Users/mikeleach/Documents/ForceMobileApp/build/Debug-iphonesimulator/ForceMobileApp.app.dSYM /Users/mikeleach/Documents/ForceMobileApp/build/Debug-iphonesimulator/ForceMobileApp.app/ForceMobileApp
+cTouch /Users/mikeleach/Documents/ForceMobileApp/build/Debug-iphonesimulator/ForceMobileApp.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004D2D504A0000000000000110
+t1294815306
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/mikeleach/Documents/ForceMobileApp/Classes/ForceMobileAppAppDelegate.h
+c000000004D8B6EED0000000000000206
+t1300983533
+s518
+i<UIKit/UIKit.h>
+
+N/Users/mikeleach/Documents/ForceMobileApp/Classes/ForceMobileAppAppDelegate.m
+c000000004D8B6EED00000000000007D4
+t1300983533
+s2004
+i"ForceMobileAppAppDelegate.h"
+i"ForceMobileAppViewController.h"
+
+N/Users/mikeleach/Documents/ForceMobileApp/Classes/ForceMobileAppViewController.h
+c000000004D8F65A80000000000000150
+t1301243304
+s336
+i<UIKit/UIKit.h>
+
+N/Users/mikeleach/Documents/ForceMobileApp/Classes/ForceMobileAppViewController.m
+c000000004D8F65C70000000000000501
+t1301243335
+s1281
+i"ForceMobileAppViewController.h"
+
+N/Users/mikeleach/Documents/ForceMobileApp/ForceMobileAppViewController.xib
+c000000004D8B71500000000000005DB7
+t1300984144
+s23991
+
+N/Users/mikeleach/Documents/ForceMobileApp/ForceMobileApp_Prefix.pch
+c000000004D8B6EED00000000000000C5
+t1300983533
+s197
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/mikeleach/Documents/ForceMobileApp/MainWindow.xib
+c000000004D8B6EED0000000000004D4F
+t1300983533
+s19791
+
+N/Users/mikeleach/Documents/ForceMobileApp/build/Debug-iphonesimulator/ForceMobileApp.app
+t1301243388
+s238
+
+N/Users/mikeleach/Documents/ForceMobileApp/build/Debug-iphonesimulator/ForceMobileApp.app.dSYM
+t1301243388
+s102
+
+N/Users/mikeleach/Documents/ForceMobileApp/build/Debug-iphonesimulator/ForceMobileApp.app/ForceMobileApp
+t1301243388
+s18076
+
+N/Users/mikeleach/Documents/ForceMobileApp/build/Debug-iphonesimulator/ForceMobileApp.app/ForceMobileAppViewController.nib
+t1300984158
+s1505
+
+N/Users/mikeleach/Documents/ForceMobileApp/build/Debug-iphonesimulator/ForceMobileApp.app/Info.plist
+t1300983796
+s826
+
+N/Users/mikeleach/Documents/ForceMobileApp/build/Debug-iphonesimulator/ForceMobileApp.app/MainWindow.nib
+t1300983797
+s1137
+
+N/Users/mikeleach/Documents/ForceMobileApp/build/Debug-iphonesimulator/ForceMobileApp.app/PkgInfo
+t1300983796
+s8
+
+N/Users/mikeleach/Documents/ForceMobileApp/build/ForceMobileApp.build/Debug-iphonesimulator/ForceMobileApp.build/Objects-normal/i386/ForceMobileApp.LinkFileList
+c000000004D8B6FF400000000000001CE
+t1300983796
+s462
+
+N/Users/mikeleach/Documents/ForceMobileApp/build/ForceMobileApp.build/Debug-iphonesimulator/ForceMobileApp.build/Objects-normal/i386/ForceMobileAppAppDelegate.o
+t1301243388
+s50624
+
+N/Users/mikeleach/Documents/ForceMobileApp/build/ForceMobileApp.build/Debug-iphonesimulator/ForceMobileApp.build/Objects-normal/i386/ForceMobileAppViewController.o
+t1301243388
+s41928
+
+N/Users/mikeleach/Documents/ForceMobileApp/build/ForceMobileApp.build/Debug-iphonesimulator/ForceMobileApp.build/Objects-normal/i386/main.o
+t1300983797
+s6308
+
+N/Users/mikeleach/Documents/ForceMobileApp/build/ForceMobileApp.build/Debug-iphonesimulator/ForceMobileApp.build/StaticAnalyzer/normal/i386/ForceMobileAppAppDelegate.plist
+t1300983797
+s276
+
+N/Users/mikeleach/Documents/ForceMobileApp/build/ForceMobileApp.build/Debug-iphonesimulator/ForceMobileApp.build/StaticAnalyzer/normal/i386/ForceMobileAppViewController.plist
+t1300983798
+s276
+
+N/Users/mikeleach/Documents/ForceMobileApp/build/ForceMobileApp.build/Debug-iphonesimulator/ForceMobileApp.build/StaticAnalyzer/normal/i386/main.plist
+t1300983797
+s276
+
+N/Users/mikeleach/Documents/ForceMobileApp/main.m
+c000000004D8B6EED000000000000016D
+t1300983533
+s365
+i<UIKit/UIKit.h>
+
+N/var/folders/sc/scmH1zX4Gry7zOCcTcTXdq8AYkw/-Caches-/com.apple.Xcode.1653379855/SharedPrecompiledHeaders/ForceMobileApp_Prefix-ewuustchjutswbelledemltkaooo/ForceMobileApp_Prefix.pch.pth
+t1300983797
+s2784028
+
+N/var/folders/sc/scmH1zX4Gry7zOCcTcTXdq8AYkw/-Caches-/com.apple.Xcode.1653379855/SharedPrecompiledHeaders/ForceMobileApp_Prefix-fbokhqbeczqwqafeobmolpgluagj/ForceMobileApp_Prefix.pch.gch
+t1300983797
+s15453392
+
+NForceMobileApp-Info.plist
+c000000004D8B6EED00000000000004D6
+t1300983533
+s1238
+
+CAnalyze /Users/mikeleach/Documents/ForceMobileApp/Classes/ForceMobileAppAppDelegate.m
+s322676597.921521
+e322676598.003902
+r1
+xAnalyze
+x/Users/mikeleach/Documents/ForceMobileApp/Classes/ForceMobileAppAppDelegate.m
+lSLF07#2@85"Analyze /Users/mikeleach/Documents/ForceMobileApp/Classes/ForceMobileAppAppDelegate.m322676597#322676598#0(0"0(0#0#77"/Users/mikeleach/Documents/ForceMobileApp/Classes/ForceMobileAppAppDelegate.m8610453344#2153"    cd /Users/mikeleach/Documents/ForceMobileApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mikeleach/Documents/ForceMobileApp/build/ForceMobileApp.build/Debug-iphonesimulator/ForceMobileApp.build/ForceMobileApp-generated-files.hmap -I/Users/mikeleach/Documents/ForceMobileApp/build/ForceMobileApp.build/Debug-iphonesimulator/ForceMobileApp.build/ForceMobileApp-own-target-headers.hmap -I/Users/mikeleach/Documents/ForceMobileApp/build/ForceMobileApp.build/Debug-iphonesimulator/ForceMobileApp.build/ForceMobileApp-all-target-headers.hmap -iquote /Users/mikeleach/Documents/ForceMobileApp/build/ForceMobileApp.build/Debug-iphonesimulator/ForceMobileApp.build/ForceMobileApp-project-headers.hmap -F/Users/mikeleach/Documents/ForceMobileApp/build/Debug-iphonesimulator -I/Users/mikeleach/Documents/ForceMobileApp/build/Debug-iphonesimulator/include -I/Users/mikeleach/Documents/ForceMobileApp/build/ForceMobileApp.build/Debug-iphonesimulator/ForceMobileApp.build/DerivedSources/i386 -I/Users/mikeleach/Documents/ForceMobileApp/build/ForceMobileApp.build/Debug-iphonesimulator/ForceMobileApp.build/DerivedSources -include /var/folders/sc/scmH1zX4Gry7zOCcTcTXdq8AYkw/-Caches-/com.apple.Xcode.1653379855/SharedPrecompiledHeaders/ForceMobileApp_Prefix-ewuustchjutswbelledemltkaooo/ForceMobileApp_Prefix.pch --analyze /Users/mikeleach/Documents/ForceMobileApp/Classes/ForceMobileAppAppDelegate.m -o /Users/mikeleach/Documents/ForceMobileApp/build/ForceMobileApp.build/Debug-iphonesimulator/ForceMobileApp.build/StaticAnalyzer/normal/i386/ForceMobileAppAppDelegate.plist0#
+
+CAnalyze /Users/mikeleach/Documents/ForceMobileApp/Classes/ForceMobileAppViewController.m
+s322676597.936454
+e322676598.017144
+r1
+xAnalyze
+x/Users/mikeleach/Documents/ForceMobileApp/Classes/ForceMobileAppViewController.m
+lSLF07#2@88"Analyze /Users/mikeleach/Documents/ForceMobileApp/Classes/ForceMobileAppViewController.m322676597#322676598#0(0"0(0#0#80"/Users/mikeleach/Documents/ForceMobileApp/Classes/ForceMobileAppViewController.m8610018688#2159"    cd /Users/mikeleach/Documents/ForceMobileApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mikeleach/Documents/ForceMobileApp/build/ForceMobileApp.build/Debug-iphonesimulator/ForceMobileApp.build/ForceMobileApp-generated-files.hmap -I/Users/mikeleach/Documents/ForceMobileApp/build/ForceMobileApp.build/Debug-iphonesimulator/ForceMobileApp.build/ForceMobileApp-own-target-headers.hmap -I/Users/mikeleach/Documents/ForceMobileApp/build/ForceMobileApp.build/Debug-iphonesimulator/ForceMobileApp.build/ForceMobileApp-all-target-headers.hmap -iquote /Users/mikeleach/Documents/ForceMobileApp/build/ForceMobileApp.build/Debug-iphonesimulator/ForceMobileApp.build/ForceMobileApp-project-headers.hmap -F/Users/mikeleach/Documents/ForceMobileApp/build/Debug-iphonesimulator -I/Users/mikeleach/Documents/ForceMobileApp/build/Debug-iphonesimulator/include -I/Users/mikeleach/Documents/ForceMobileApp/build/ForceMobileApp.build/Debug-iphonesimulator/ForceMobileApp.build/DerivedSources/i386 -I/Users/mikeleach/Documents/ForceMobileApp/build/ForceMobileApp.build/Debug-iphonesimulator/ForceMobileApp.build/DerivedSources -include /var/folders/sc/scmH1zX4Gry7zOCcTcTXdq8AYkw/-Caches-/com.apple.Xcode.1653379855/SharedPrecompiledHeaders/ForceMobileApp_Prefix-ewuustchjutswbelledemltkaooo/ForceMobileApp_Prefix.pch --analyze /Users/mikeleach/Documents/ForceMobileApp/Classes/ForceMobileAppViewController.m -o /Users/mikeleach/Documents/ForceMobileApp/build/ForceMobileApp.build/Debug-iphonesimulator/ForceMobileApp.build/StaticAnalyzer/normal/i386/ForceMobileAppViewController.plist0#
+
+CAnalyze /Users/mikeleach/Documents/ForceMobileApp/main.m
+s322676597.858345
+e322676597.936338
+r1
+xAnalyze
+x/Users/mikeleach/Documents/ForceMobileApp/main.m
+lSLF07#2@56"Analyze /Users/mikeleach/Documents/ForceMobileApp/main.m322676597#322676597#0(0"0(0#0#48"/Users/mikeleach/Documents/ForceMobileApp/main.m8610785632#2103"    cd /Users/mikeleach/Documents/ForceMobileApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mikeleach/Documents/ForceMobileApp/build/ForceMobileApp.build/Debug-iphonesimulator/ForceMobileApp.build/ForceMobileApp-generated-files.hmap -I/Users/mikeleach/Documents/ForceMobileApp/build/ForceMobileApp.build/Debug-iphonesimulator/ForceMobileApp.build/ForceMobileApp-own-target-headers.hmap -I/Users/mikeleach/Documents/ForceMobileApp/build/ForceMobileApp.build/Debug-iphonesimulator/ForceMobileApp.build/ForceMobileApp-all-target-headers.hmap -iquote /Users/mikeleach/Documents/ForceMobileApp/build/ForceMobileApp.build/Debug-iphonesimulator/ForceMobileApp.build/ForceMobileApp-project-headers.hmap -F/Users/mikeleach/Documents/ForceMobileApp/build/Debug-iphonesimulator -I/Users/mikeleach/Documents/ForceMobileApp/build/Debug-iphonesimulator/include -I/Users/mikeleach/Documents/ForceMobileApp/build/ForceMobileApp.build/Debug-iphonesimulator/ForceMobileApp.build/DerivedSources/i386 -I/Users/mikeleach/Documents/ForceMobileApp/build/ForceMobileApp.build/Debug-iphonesimulator/ForceMobileApp.build/DerivedSources -include /var/folders/sc/scmH1zX4Gry7zOCcTcTXdq8AYkw/-Caches-/com.apple.Xcode.1653379855/SharedPrecompiledHeaders/ForceMobileApp_Prefix-ewuustchjutswbelledemltkaooo/ForceMobileApp_Prefix.pch --analyze /Users/mikeleach/Documents/ForceMobileApp/main.m -o /Users/mikeleach/Documents/ForceMobileApp/build/ForceMobileApp.build/Debug-iphonesimulator/ForceMobileApp.build/StaticAnalyzer/normal/i386/main.plist0#
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies322936188#322936188#0(0"0(0#1#0"29836824280170608#0"0#
+
+CCompileC build/ForceMobileApp.build/Debug-iphonesimulator/ForceMobileApp.build/Objects-normal/i386/ForceMobileAppAppDelegate.o /Users/mikeleach/Documents/ForceMobileApp/Classes/ForceMobileAppAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322936188.452653
+e322936188.539755
+r1
+xCompileC
+xbuild/ForceMobileApp.build/Debug-iphonesimulator/ForceMobileApp.build/Objects-normal/i386/ForceMobileAppAppDelegate.o
+x/Users/mikeleach/Documents/ForceMobileApp/Classes/ForceMobileAppAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/mikeleach/Documents/ForceMobileApp/Classes/ForceMobileAppAppDelegate.m322936188#322936188#0(0"0(0#0#77"/Users/mikeleach/Documents/ForceMobileApp/Classes/ForceMobileAppAppDelegate.m8088857922033053696#2144"    cd /Users/mikeleach/Documents/ForceMobileApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mikeleach/Documents/ForceMobileApp/build/ForceMobileApp.build/Debug-iphonesimulator/ForceMobileApp.build/ForceMobileApp-generated-files.hmap -I/Users/mikeleach/Documents/ForceMobileApp/build/ForceMobileApp.build/Debug-iphonesimulator/ForceMobileApp.build/ForceMobileApp-own-target-headers.hmap -I/Users/mikeleach/Documents/ForceMobileApp/build/ForceMobileApp.build/Debug-iphonesimulator/ForceMobileApp.build/ForceMobileApp-all-target-headers.hmap -iquote /Users/mikeleach/Documents/ForceMobileApp/build/ForceMobileApp.build/Debug-iphonesimulator/ForceMobileApp.build/ForceMobileApp-project-headers.hmap -F/Users/mikeleach/Documents/ForceMobileApp/build/Debug-iphonesimulator -I/Users/mikeleach/Documents/ForceMobileApp/build/Debug-iphonesimulator/include -I/Users/mikeleach/Documents/ForceMobileApp/build/ForceMobileApp.build/Debug-iphonesimulator/ForceMobileApp.build/DerivedSources/i386 -I/Users/mikeleach/Documents/ForceMobileApp/build/ForceMobileApp.build/Debug-iphonesimulator/ForceMobileApp.build/DerivedSources -include /var/folders/sc/scmH1zX4Gry7zOCcTcTXdq8AYkw/-Caches-/com.apple.Xcode.1653379855/SharedPrecompiledHeaders/ForceMobileApp_Prefix-fbokhqbeczqwqafeobmolpgluagj/ForceMobileApp_Prefix.pch -c /Users/mikeleach/Documents/ForceMobileApp/Classes/ForceMobileAppAppDelegate.m -o /Users/mikeleach/Documents/ForceMobileApp/build/ForceMobileApp.build/Debug-iphonesimulator/ForceMobileApp.build/Objects-normal/i386/ForceMobileAppAppDelegate.o0#
+
+CCompileC build/ForceMobileApp.build/Debug-iphonesimulator/ForceMobileApp.build/Objects-normal/i386/ForceMobileAppViewController.o /Users/mikeleach/Documents/ForceMobileApp/Classes/ForceMobileAppViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322936188.469201
+e322936188.587384
+r1
+xCompileC
+xbuild/ForceMobileApp.build/Debug-iphonesimulator/ForceMobileApp.build/Objects-normal/i386/ForceMobileAppViewController.o
+x/Users/mikeleach/Documents/ForceMobileApp/Classes/ForceMobileAppViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/mikeleach/Documents/ForceMobileApp/Classes/ForceMobileAppViewController.m322936188#322936188#0(0"0(0#0#80"/Users/mikeleach/Documents/ForceMobileApp/Classes/ForceMobileAppViewController.m8600712832#2150"    cd /Users/mikeleach/Documents/ForceMobileApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mikeleach/Documents/ForceMobileApp/build/ForceMobileApp.build/Debug-iphonesimulator/ForceMobileApp.build/ForceMobileApp-generated-files.hmap -I/Users/mikeleach/Documents/ForceMobileApp/build/ForceMobileApp.build/Debug-iphonesimulator/ForceMobileApp.build/ForceMobileApp-own-target-headers.hmap -I/Users/mikeleach/Documents/ForceMobileApp/build/ForceMobileApp.build/Debug-iphonesimulator/ForceMobileApp.build/ForceMobileApp-all-target-headers.hmap -iquote /Users/mikeleach/Documents/ForceMobileApp/build/ForceMobileApp.build/Debug-iphonesimulator/ForceMobileApp.build/ForceMobileApp-project-headers.hmap -F/Users/mikeleach/Documents/ForceMobileApp/build/Debug-iphonesimulator -I/Users/mikeleach/Documents/ForceMobileApp/build/Debug-iphonesimulator/include -I/Users/mikeleach/Documents/ForceMobileApp/build/ForceMobileApp.build/Debug-iphonesimulator/ForceMobileApp.build/DerivedSources/i386 -I/Users/mikeleach/Documents/ForceMobileApp/build/ForceMobileApp.build/Debug-iphonesimulator/ForceMobileApp.build/DerivedSources -include /var/folders/sc/scmH1zX4Gry7zOCcTcTXdq8AYkw/-Caches-/com.apple.Xcode.1653379855/SharedPrecompiledHeaders/ForceMobileApp_Prefix-fbokhqbeczqwqafeobmolpgluagj/ForceMobileApp_Prefix.pch -c /Users/mikeleach/Documents/ForceMobileApp/Classes/ForceMobileAppViewController.m -o /Users/mikeleach/Documents/ForceMobileApp/build/ForceMobileApp.build/Debug-iphonesimulator/ForceMobileApp.build/Objects-normal/i386/ForceMobileAppViewController.o0#
+
+CCompileC build/ForceMobileApp.build/Debug-iphonesimulator/ForceMobileApp.build/Objects-normal/i386/main.o /Users/mikeleach/Documents/ForceMobileApp/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322676597.855181
+e322676597.921395
+r1
+xCompileC
+xbuild/ForceMobileApp.build/Debug-iphonesimulator/ForceMobileApp.build/Objects-normal/i386/main.o
+x/Users/mikeleach/Documents/ForceMobileApp/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/mikeleach/Documents/ForceMobileApp/main.m322676597#322676597#0(0"0(0#0#48"/Users/mikeleach/Documents/ForceMobileApp/main.m8611780832#2094"    cd /Users/mikeleach/Documents/ForceMobileApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mikeleach/Documents/ForceMobileApp/build/ForceMobileApp.build/Debug-iphonesimulator/ForceMobileApp.build/ForceMobileApp-generated-files.hmap -I/Users/mikeleach/Documents/ForceMobileApp/build/ForceMobileApp.build/Debug-iphonesimulator/ForceMobileApp.build/ForceMobileApp-own-target-headers.hmap -I/Users/mikeleach/Documents/ForceMobileApp/build/ForceMobileApp.build/Debug-iphonesimulator/ForceMobileApp.build/ForceMobileApp-all-target-headers.hmap -iquote /Users/mikeleach/Documents/ForceMobileApp/build/ForceMobileApp.build/Debug-iphonesimulator/ForceMobileApp.build/ForceMobileApp-project-headers.hmap -F/Users/mikeleach/Documents/ForceMobileApp/build/Debug-iphonesimulator -I/Users/mikeleach/Documents/ForceMobileApp/build/Debug-iphonesimulator/include -I/Users/mikeleach/Documents/ForceMobileApp/build/ForceMobileApp.build/Debug-iphonesimulator/ForceMobileApp.build/DerivedSources/i386 -I/Users/mikeleach/Documents/ForceMobileApp/build/ForceMobileApp.build/Debug-iphonesimulator/ForceMobileApp.build/DerivedSources -include /var/folders/sc/scmH1zX4Gry7zOCcTcTXdq8AYkw/-Caches-/com.apple.Xcode.1653379855/SharedPrecompiledHeaders/ForceMobileApp_Prefix-fbokhqbeczqwqafeobmolpgluagj/ForceMobileApp_Prefix.pch -c /Users/mikeleach/Documents/ForceMobileApp/main.m -o /Users/mikeleach/Documents/ForceMobileApp/build/ForceMobileApp.build/Debug-iphonesimulator/ForceMobileApp.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/mikeleach/Documents/ForceMobileApp/ForceMobileAppViewController.xib
+s322676958.064667
+e322676958.480194
+r1
+xCompileXIB
+x/Users/mikeleach/Documents/ForceMobileApp/ForceMobileAppViewController.xib
+lSLF07#2@43"CompileXIB ForceMobileAppViewController.xib322676958#322676958#0(0"0(0#0#74"/Users/mikeleach/Documents/ForceMobileApp/ForceMobileAppViewController.xib8603300544#622"    cd /Users/mikeleach/Documents/ForceMobileApp    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mikeleach/Documents/ForceMobileApp/build/Debug-iphonesimulator/ForceMobileApp.app/ForceMobileAppViewController.nib /Users/mikeleach/Documents/ForceMobileApp/ForceMobileAppViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/mikeleach/Documents/ForceMobileApp/MainWindow.xib
+s322676596.835028
+e322676597.205488
+r1
+xCompileXIB
+x/Users/mikeleach/Documents/ForceMobileApp/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib322676596#322676597#0(0"0(0#0#56"/Users/mikeleach/Documents/ForceMobileApp/MainWindow.xib8612059968#586"    cd /Users/mikeleach/Documents/ForceMobileApp    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mikeleach/Documents/ForceMobileApp/build/Debug-iphonesimulator/ForceMobileApp.app/MainWindow.nib /Users/mikeleach/Documents/ForceMobileApp/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile /Users/mikeleach/Documents/ForceMobileApp/build/Debug-iphonesimulator/ForceMobileApp.app.dSYM /Users/mikeleach/Documents/ForceMobileApp/build/Debug-iphonesimulator/ForceMobileApp.app/ForceMobileApp
+s322936188.818303
+e322936188.853435
+r1
+xGenerateDSYMFile
+x/Users/mikeleach/Documents/ForceMobileApp/build/Debug-iphonesimulator/ForceMobileApp.app.dSYM
+x/Users/mikeleach/Documents/ForceMobileApp/build/Debug-iphonesimulator/ForceMobileApp.app/ForceMobileApp
+lSLF07#2@130"GenerateDSYMFile build/Debug-iphonesimulator/ForceMobileApp.app.dSYM build/Debug-iphonesimulator/ForceMobileApp.app/ForceMobileApp322936188#322936188#0(0"0(0#0#103"/Users/mikeleach/Documents/ForceMobileApp/build/Debug-iphonesimulator/ForceMobileApp.app/ForceMobileApp8604183584#413"    cd /Users/mikeleach/Documents/ForceMobileApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/mikeleach/Documents/ForceMobileApp/build/Debug-iphonesimulator/ForceMobileApp.app/ForceMobileApp -o /Users/mikeleach/Documents/ForceMobileApp/build/Debug-iphonesimulator/ForceMobileApp.app.dSYM0#
+
+CLd /Users/mikeleach/Documents/ForceMobileApp/build/Debug-iphonesimulator/ForceMobileApp.app/ForceMobileApp normal i386
+s322936188.587464
+e322936188.818198
+r1
+xLd
+x/Users/mikeleach/Documents/ForceMobileApp/build/Debug-iphonesimulator/ForceMobileApp.app/ForceMobileApp
+xnormal
+xi386
+lSLF07#2@108"Link /Users/mikeleach/Documents/ForceMobileApp/build/Debug-iphonesimulator/ForceMobileApp.app/ForceMobileApp322936188#322936188#0(0"0(0#0#0"8604136736#950"    cd /Users/mikeleach/Documents/ForceMobileApp    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/mikeleach/Documents/ForceMobileApp/build/Debug-iphonesimulator -F/Users/mikeleach/Documents/ForceMobileApp/build/Debug-iphonesimulator -filelist /Users/mikeleach/Documents/ForceMobileApp/build/ForceMobileApp.build/Debug-iphonesimulator/ForceMobileApp.build/Objects-normal/i386/ForceMobileApp.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/mikeleach/Documents/ForceMobileApp/build/Debug-iphonesimulator/ForceMobileApp.app/ForceMobileApp0#
+
+CProcessInfoPlistFile /Users/mikeleach/Documents/ForceMobileApp/build/Debug-iphonesimulator/ForceMobileApp.app/Info.plist ForceMobileApp-Info.plist
+s322676596.825295
+e322676596.834914
+r1
+xProcessInfoPlistFile
+x/Users/mikeleach/Documents/ForceMobileApp/build/Debug-iphonesimulator/ForceMobileApp.app/Info.plist
+xForceMobileApp-Info.plist
+lSLF07#2@33"Process ForceMobileApp-Info.plist322676596#322676596#0(0"0(0#0#67"/Users/mikeleach/Documents/ForceMobileApp/ForceMobileApp-Info.plist31525394967363688#509"    cd /Users/mikeleach/Documents/ForceMobileApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility ForceMobileApp-Info.plist -genpkginfo /Users/mikeleach/Documents/ForceMobileApp/build/Debug-iphonesimulator/ForceMobileApp.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/mikeleach/Documents/ForceMobileApp/build/Debug-iphonesimulator/ForceMobileApp.app/Info.plist0#
+
+CProcessPCH /var/folders/sc/scmH1zX4Gry7zOCcTcTXdq8AYkw/-Caches-/com.apple.Xcode.1653379855/SharedPrecompiledHeaders/ForceMobileApp_Prefix-ewuustchjutswbelledemltkaooo/ForceMobileApp_Prefix.pch.pth ForceMobileApp_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+s322676597.206695
+e322676597.490479
+r1
+xProcessPCH
+x/var/folders/sc/scmH1zX4Gry7zOCcTcTXdq8AYkw/-Caches-/com.apple.Xcode.1653379855/SharedPrecompiledHeaders/ForceMobileApp_Prefix-ewuustchjutswbelledemltkaooo/ForceMobileApp_Prefix.pch.pth
+xForceMobileApp_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.analyzer
+lSLF07#2@36"Precompile ForceMobileApp_Prefix.pch322676597#322676597#0(0"0(0#0#67"/Users/mikeleach/Documents/ForceMobileApp/ForceMobileApp_Prefix.pch8610758720#1967"    cd /Users/mikeleach/Documents/ForceMobileApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mikeleach/Documents/ForceMobileApp/build/ForceMobileApp.build/Debug-iphonesimulator/ForceMobileApp.build/ForceMobileApp-generated-files.hmap -I/Users/mikeleach/Documents/ForceMobileApp/build/ForceMobileApp.build/Debug-iphonesimulator/ForceMobileApp.build/ForceMobileApp-own-target-headers.hmap -I/Users/mikeleach/Documents/ForceMobileApp/build/ForceMobileApp.build/Debug-iphonesimulator/ForceMobileApp.build/ForceMobileApp-all-target-headers.hmap -iquote /Users/mikeleach/Documents/ForceMobileApp/build/ForceMobileApp.build/Debug-iphonesimulator/ForceMobileApp.build/ForceMobileApp-project-headers.hmap -F/Users/mikeleach/Documents/ForceMobileApp/build/Debug-iphonesimulator -I/Users/mikeleach/Documents/ForceMobileApp/build/Debug-iphonesimulator/include -I/Users/mikeleach/Documents/ForceMobileApp/build/ForceMobileApp.build/Debug-iphonesimulator/ForceMobileApp.build/DerivedSources/i386 -I/Users/mikeleach/Documents/ForceMobileApp/build/ForceMobileApp.build/Debug-iphonesimulator/ForceMobileApp.build/DerivedSources -c /Users/mikeleach/Documents/ForceMobileApp/ForceMobileApp_Prefix.pch -o /var/folders/sc/scmH1zX4Gry7zOCcTcTXdq8AYkw/-Caches-/com.apple.Xcode.1653379855/SharedPrecompiledHeaders/ForceMobileApp_Prefix-ewuustchjutswbelledemltkaooo/ForceMobileApp_Prefix.pch.pth0#
+
+CProcessPCH /var/folders/sc/scmH1zX4Gry7zOCcTcTXdq8AYkw/-Caches-/com.apple.Xcode.1653379855/SharedPrecompiledHeaders/ForceMobileApp_Prefix-fbokhqbeczqwqafeobmolpgluagj/ForceMobileApp_Prefix.pch.gch ForceMobileApp_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s322676597.205669
+e322676597.855089
+r1
+xProcessPCH
+x/var/folders/sc/scmH1zX4Gry7zOCcTcTXdq8AYkw/-Caches-/com.apple.Xcode.1653379855/SharedPrecompiledHeaders/ForceMobileApp_Prefix-fbokhqbeczqwqafeobmolpgluagj/ForceMobileApp_Prefix.pch.gch
+xForceMobileApp_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@36"Precompile ForceMobileApp_Prefix.pch322676597#322676597#0(0"0(0#0#67"/Users/mikeleach/Documents/ForceMobileApp/ForceMobileApp_Prefix.pch8609927168#1976"    cd /Users/mikeleach/Documents/ForceMobileApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mikeleach/Documents/ForceMobileApp/build/ForceMobileApp.build/Debug-iphonesimulator/ForceMobileApp.build/ForceMobileApp-generated-files.hmap -I/Users/mikeleach/Documents/ForceMobileApp/build/ForceMobileApp.build/Debug-iphonesimulator/ForceMobileApp.build/ForceMobileApp-own-target-headers.hmap -I/Users/mikeleach/Documents/ForceMobileApp/build/ForceMobileApp.build/Debug-iphonesimulator/ForceMobileApp.build/ForceMobileApp-all-target-headers.hmap -iquote /Users/mikeleach/Documents/ForceMobileApp/build/ForceMobileApp.build/Debug-iphonesimulator/ForceMobileApp.build/ForceMobileApp-project-headers.hmap -F/Users/mikeleach/Documents/ForceMobileApp/build/Debug-iphonesimulator -I/Users/mikeleach/Documents/ForceMobileApp/build/Debug-iphonesimulator/include -I/Users/mikeleach/Documents/ForceMobileApp/build/ForceMobileApp.build/Debug-iphonesimulator/ForceMobileApp.build/DerivedSources/i386 -I/Users/mikeleach/Documents/ForceMobileApp/build/ForceMobileApp.build/Debug-iphonesimulator/ForceMobileApp.build/DerivedSources -c /Users/mikeleach/Documents/ForceMobileApp/ForceMobileApp_Prefix.pch -o /var/folders/sc/scmH1zX4Gry7zOCcTcTXdq8AYkw/-Caches-/com.apple.Xcode.1653379855/SharedPrecompiledHeaders/ForceMobileApp_Prefix-fbokhqbeczqwqafeobmolpgluagj/ForceMobileApp_Prefix.pch.gch0#
+
+CTouch /Users/mikeleach/Documents/ForceMobileApp/build/Debug-iphonesimulator/ForceMobileApp.app
+s322936188.853527
+e322936188.856100
+r1
+xTouch
+x/Users/mikeleach/Documents/ForceMobileApp/build/Debug-iphonesimulator/ForceMobileApp.app
+lSLF07#2@94"Touch /Users/mikeleach/Documents/ForceMobileApp/build/Debug-iphonesimulator/ForceMobileApp.app322936188#322936188#0(0"0(0#0#0"8603777376#291"    cd /Users/mikeleach/Documents/ForceMobileApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/mikeleach/Documents/ForceMobileApp/build/Debug-iphonesimulator/ForceMobileApp.app0#
+
